@@ -15,7 +15,7 @@ pinned: false
 
 AI detection · custom rubric checks · section-by-section evaluation · feedback loop
 
-→ [Live demo]() · [GitHub](https://github.com/ussruthilaya-lang/Rubrix)
+→ [Live demo](https://huggingface.co/spaces/ussruthilaya-lang/Rubrix) · [GitHub](https://github.com/ussruthilaya-lang/Rubrix)
 
 ---
 
