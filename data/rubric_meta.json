@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "id": "C01",
+    "name": "Problem statement clarity",
+    "description": "The research problem is clearly stated, specific, and well-scoped. The reader understands exactly what is being investigated and why it matters."
+  },
+  {
+    "index": 1,
+    "id": "C02",
+    "name": "Research questions defined",
+    "description": "Specific research questions or hypotheses are explicitly stated. Questions are measurable and directly tied to the problem statement."
+  },
+  {
+    "index": 2,
+    "id": "C03",
+    "name": "Literature review coverage",
+    "description": "Relevant prior work is reviewed and cited. The review demonstrates awareness of the current state of the field and identifies gaps."
+  },
+  {
+    "index": 3,
+    "id": "C04",
+    "name": "Gap identification",
+    "description": "The submission clearly identifies what is missing or unresolved in existing literature and explains how this work addresses that gap."
+  },
+  {
+    "index": 4,
+    "id": "C05",
+    "name": "Methodology described",
+    "description": "The research methodology is described in sufficient detail. Another researcher could replicate the approach from the description provided."
+  },
+  {
+    "index": 5,
+    "id": "C06",
+    "name": "Research design justification",
+    "description": "The choice of research design is justified. The authors explain why this method is appropriate for the research questions."
+  },
+  {
+    "index": 6,
+    "id": "C07",
+    "name": "Evaluation methodology",
+    "description": "Evaluation approach is clearly defined including metrics, baseline comparisons, and statistical significance testing where appropriate."
+  },
+  {
+    "index": 7,
+    "id": "C08",
+    "name": "Dataset description",
+    "description": "Datasets used are described including source, size, splits, and any preprocessing steps applied. Limitations of the dataset are acknowledged."
+  },
+  {
+    "index": 8,
+    "id": "C09",
+    "name": "Baseline comparison",
+    "description": "Results are compared against at least one meaningful baseline. The baseline is described and justified as an appropriate point of comparison."
+  },
+  {
+    "index": 9,
+    "id": "C10",
+    "name": "Results reported clearly",
+    "description": "Results are presented with sufficient detail including numerical values, confidence intervals or error bars, and clearly labeled tables or figures."
+  },
+  {
+    "index": 10,
+    "id": "C11",
+    "name": "Statistical significance",
+    "description": "Claims of improvement are supported by statistical significance tests. P-values or equivalent measures are reported where applicable."
+  },
+  {
+    "index": 11,
+    "id": "C12",
+    "name": "Limitations acknowledged",
+    "description": "The authors explicitly discuss limitations of the study including scope, dataset, methodology, and generalizability of findings."
+  },
+  {
+    "index": 12,
+    "id": "C13",
+    "name": "Ethical considerations",
+    "description": "Ethical implications of the research are addressed including data privacy, potential misuse, and bias in datasets or models."
+  },
+  {
+    "index": 13,
+    "id": "C14",
+    "name": "Contribution clearly stated",
+    "description": "The specific contributions of the paper are explicitly listed. The authors clearly state what is novel about this work."
+  },
+  {
+    "index": 14,
+    "id": "C15",
+    "name": "Related work differentiated",
+    "description": "The submission explains how this work differs from the most closely related prior work. Similarities and differences are made explicit."
+  },
+  {
+    "index": 15,
+    "id": "C16",
+    "name": "Results interpreted",
+    "description": "Results are not just reported but interpreted. The authors explain what the results mean in the context of the research questions."
+  },
+  {
+    "index": 16,
+    "id": "C17",
+    "name": "Future work identified",
+    "description": "The submission identifies concrete directions for future research that follow naturally from the findings and limitations."
+  },
+  {
+    "index": 17,
+    "id": "C18",
+    "name": "Abstract completeness",
+    "description": "The abstract covers the problem, approach, key results, and conclusion. A reader can understand the full contribution from the abstract alone."
+  },
+  {
+    "index": 18,
+    "id": "C19",
+    "name": "Writing clarity",
+    "description": "The paper is written clearly and precisely. Technical terms are defined. Arguments flow logically from section to section."
+  },
+  {
+    "index": 19,
+    "id": "C20",
+    "name": "References formatted correctly",
+    "description": "All cited works are included in the reference list. References follow a consistent format. No broken or missing citations."
+  }
+]
