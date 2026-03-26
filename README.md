@@ -1,3 +1,14 @@
+---
+title: Rubrix
+emoji: 📋
+colorFrom: yellow
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app/main.py
+pinned: false
+---
+
 # Rubrix
 
 **Research paper and document checker powered by cascade inference.**

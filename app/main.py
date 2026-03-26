@@ -13,6 +13,14 @@ from app.rubric_custom import run_all_custom_checks, validate_custom_check
 from app.feedback import generate_session_id, build_session_data, post_feedback_to_github, fetch_feedback_stats
 from app.prompts import AI_SENTENCE_STRUCTURE_VERSION, AI_REASONING_DEPTH_VERSION, CUSTOM_RUBRIC_CHECK_VERSION
 
+# Auto-build index if not present (HuggingFace Spaces first run)
+import os
+if not os.path.exists("data/rubric.index"):
+    print("Index not found — building...")
+    os.system("python scripts/build_embeddings.py")
+    os.system("python scripts/build_index.py")
+    print("Index built.")
+
 st.set_page_config(page_title="Rubrix", page_icon="📋", layout="wide", initial_sidebar_state="expanded")
 
 # ── CSS ──────────────────────────────────────────────────

@@ -11,3 +11,6 @@ dist/
 build/
 .DS_Store
 Thumbs.db
+data/feedback.csv
+data/rubric_embeddings.npy
+data/rubric.index
